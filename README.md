@@ -9,7 +9,7 @@ As principais <strong>skills</strong> usadas:
 - **`CRUD`**; 
 - **`Arquitetura MSC`**;
 - **`Testes: Mocha, Chai e Sinon`**;
-- **`CRUD`**; 
+- **`Docker`**; 
 <br>
 
 
